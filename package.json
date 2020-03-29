@@ -1,0 +1,25 @@
+{
+  "name": "example-crashing-nodejs-app",
+  "version": "1.0.0",
+  "description": "A sample app that demonstrates core dumps ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/No9/example-crashing-nodejs-app.git"
+  },
+  "keywords": [
+    "core",
+    "dumps"
+  ],
+  "author": "anton whalley",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/No9/example-crashing-nodejs-app/issues"
+  },
+  "homepage": "https://github.com/No9/example-crashing-nodejs-app#readme",
+  "dependencies": {
+  }
+}
