@@ -1,4 +1,4 @@
-# Example of a Crashing App in Rust
+# Example of a Crashing App in Node.JS
 
 This repository is a how-to guide on debugging a crashing app using llnode and core-dump-handler.
 
